@@ -7,5 +7,5 @@ function primeFactors(num) {
       }
     }
     return primes;
-  } 
+} 
   console.log("Prime factors of Number 18 are: ",primeFactors(18));
